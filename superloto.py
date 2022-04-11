@@ -6,7 +6,7 @@ import configparser as cf
 
 nya=0
 rlko=0
-xTOXEN="1923843249823:ASFASFAWFWFAWFAWFWAF" #Buraya kendi toxeninizi yazın.
+xTOXEN="5129838949:AAFs8aMV3581fj0-pv_B_bWTVYCwwQB_JxY" #Buraya kendi toxeninizi yazın.
 db_exists=os.path.exists("database.db")
 conn=sqlite3.connect("database.db", check_same_thread=False)
 cur=conn.cursor()
